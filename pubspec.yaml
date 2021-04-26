@@ -11,7 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_pdfview: ^1.1.0
+  flutter_pdfview:
+    git: https://github.com/zhangxueNetpulse/flutter_pdfview.git
   flutter_cache_manager: ^3.0.0-nullsafety.1
   path_provider: ^2.0.1
   path: ^1.8.0
